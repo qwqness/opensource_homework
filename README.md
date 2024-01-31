@@ -5,4 +5,5 @@
 
 # 小组大作业
 
-[大作业](https://github.com/Nope132/2023project/tree/main)中
+在[组长](https://github.com/Nope13) (https://github.com/Nope132)首页
+点此[大作业](https://github.com/Nope132/2023project/tree/main)
